@@ -1,0 +1,54 @@
+extends layout
+include releasebar
+
+block title
+  title Monstercat | #{page.mcpdata.name}
+
+block content
+  div.row
+    div.large-8.small-12.columns
+      if page.mcpdata.profileImage
+        h2.caps= page.mcpdata.name
+        img(src="#{imgroot}#{page.mcpdata._id}-#{page.mcpdata.profileImage}")
+      else
+        h1.caps= page.mcpdata.name
+    div.large-4.small-12.columns
+      div.row
+        div.large-12.columns.padtop
+          h6.caps Social Media
+      div.row
+        div.large-12.columns
+          ul.large-block-grid-5
+            if (page.mcpdata.social.Facebook)
+              li
+                a.social.facebook(href=page.mcpdata.social.Facebook.url)
+            if (page.mcpdata.social.Twitter)
+              li
+                a.social.twitter(href=page.mcpdata.social.Twitter.url)
+            if (page.mcpdata.social.YouTube)
+              li
+                a.social.youtube(href=page.mcpdata.social.YouTube.url)
+            if (page.mcpdata.social.Soundcloud)
+              li
+                a.social.soundcloud(href=page.mcpdata.social.Soundcloud.url)
+      div.row
+        div.large-12.columns
+          if page.mcpdata.bookings
+            h6.caps Booking
+            h6.caps.light!= page.mcpdata.bookings
+            br
+          if page.mcpdata.managementDetail
+            h6.caps Management
+            h6.caps.light= page.mcpdata.managementDetail
+
+  div.row
+    div.large-12.columns
+      if (page.mcpdata.about)
+        p= page.mcpdata.about
+  div(ng-controller='ReleaseBar')
+    div.fullrow.release-row.padtop(release-bar='')
+      if page.mcpdata.epsingles && page.mcpdata.epsingles.length > 0
+        +releaseRow("Latest Releases", page.mcpdata.epsingles)
+      if page.mcpdata.albums && page.mcpdata.albums.length > 0
+        +releaseRow("Appears On", page.mcpdata.albums)
+    +releaseDrawer()

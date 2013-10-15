@@ -1,0 +1,51 @@
+mixin release(link, name, art, beatport, bandcamp, itunes, spotify)
+  - var beatport_url = null
+  if beatport && beatport.url
+    - beatport_url = beatport.url
+  - var bandcamp_url = null
+  if bandcamp && bandcamp.url
+    - bandcamp_url = bandcamp.url
+  - var itunes_url = null
+  if itunes && itunes.url
+    - itunes_url = itunes.url
+  - var spotify_url = null
+  if spotify && spotify.url
+    - spotify_url = spotify.url
+  span.release-container(release-item='',
+              release-link=link,
+              release-name=name,
+              release-beatport=beatport_url,
+              release-bandcamp=bandcamp_url,
+              release-itunes=itunes_url,
+              release-spotify=spotify_url)
+    if (art)
+      img.release(src=albimgroot + encodeURIComponent("#{art}"))
+    else
+      img.release(src="/img/defaultArt.png")
+
+mixin releaseRow(title, collection)
+  div.row
+    div.large-12.columns
+      h5.caps.white= title
+  div.row
+    div.large-12.columns.releases
+      div.scroll-x
+        each release in collection
+          if release.soundcloud_path
+            +release(release.soundcloud_path, release.title, release.coverArt, release.social.Beatport, release.social.Bandcamp, release.social.iTunes, release.social.Spotify)
+
+mixin releaseDrawer()
+  div.row.drawer-row(release-drawer='')
+    div.large-3.columns
+      div.drawer
+        h5.white SUPPORT THIS RELEASE
+        a.support(href="{{releaseBeatport}}", ng-hide="!releaseBeatport")
+          img(src="/img/beatport.png")
+        a.support(href="{{releaseBandcamp}}", ng-hide="!releaseBandcamp")
+          img(src="/img/bandcamp.png")
+        a.support(href="{{releaseItunes}}", ng-hide="!releaseItunes")
+          img(src="/img/itunes.png")
+        a.support(href="{{releaseSpotify}}", ng-hide="!releaseSpotify")
+          img(src="/img/spotify.png")
+    div.large-9.columns#sc-container
+      div.sc-player-init

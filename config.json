@@ -1,0 +1,22 @@
+{
+  "locals": {
+    "url": "http://localhost:8080",
+    "imgroot": "http://data.monstercat.com/labels/monstercat/profileImage/",
+    "albimgroot": "http://data.monstercat.com/labels/monstercat/art/thumb/128/"
+  },
+  "plugins": [
+    "./plugins/mcp.coffee"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  }
+}

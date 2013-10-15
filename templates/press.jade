@@ -1,0 +1,49 @@
+extends layout
+
+block title
+  title Monstercat | Press
+
+block content
+  div.row
+    div.small-12.large-6.large-offset-3.columns.padtop
+      h5 For all press inquiries email&nbsp;
+        a(href="mailto:press@monstercat.com") press@monstercat.com
+  div.row
+    div.small-12.columns
+      h4 Banners
+      a(href="/img/essentials/musicprovidedby.png", target="_blank")
+        img.img-rounded(src="/img/essentials/musicprovidedby.png", alt="")
+      p
+        a(href="/img/essentials/musicprovidedby.png", target="_blank") (Normal)
+  div.row
+    div.small-12.large-6.columns
+      h4 Logos
+
+      img.img-rounded(src="/img/essentials/monstercat_logo_final_noshaddow(small).png", height="70", width="70" )
+      br
+      p
+        a.essentials-link(href="/img/essentials/monstercat_logo_final_noshaddow(small).png", target="_blank") (Small) &nbsp;
+        a.essentials-link(href="/img/essentials/monstercat_logo_final_noshaddow(normal).png", target="_blank") (Normal) &nbsp;
+        a.essentials-link(href="/img/essentials/monstercat_logo_final_noshaddow(large).png", target="_blank") (Large) &nbsp;
+        a(href="/files/monstercat_logo_final_noshaddow.ai") (Vector)
+
+      img.img-rounded(src="/img/essentials/monstercat_logo_w_text(small).png")
+      br
+      p
+        a.essentials-link(href="/img/essentials/monstercat_logo_w_text(small).png", target="_blank")  (Small) &nbsp;
+        a.essentials-link(href="/img/essentials/monstercat_logo_w_text(normal).png", target="_blank") (Normal)
+
+    div.small-12.large-6.columns
+      h4 Videos
+      img.img-rounded(src="/img/essentials/monstercat_video.png")
+
+      table.table.essentials(rules="none")
+        tbody
+          tr
+            td: strong Sound
+            td: a.essentials-link(href="http://data.monstercat.com/files/MC_CLIP_Text_sound.f4v", target="_blank") w/ Text
+            td: a.essentials-link(href="http://data.monstercat.com/files/MC_CLIP_no_Text_sound.f4v", target="_blank") w/ No Text
+          tr
+            td: strong No Sound
+            td: a.essentials-link(href="http://data.monstercat.com/files/MC_CLIP_Text.f4v", target="_blank") w/ Text
+            td: a.essentials-link(href="http://data.monstercat.com/files/MC_CLIP_no_Text.f4v", target="_blank") w/ No Text

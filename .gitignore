@@ -1,0 +1,14 @@
+/contents/artists/
+/contents/data.json
+/contents/release_data.json
+node_modules/
+/build/
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

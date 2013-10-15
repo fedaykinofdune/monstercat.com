@@ -1,0 +1,46 @@
+extends layout
+include releasebar
+
+block title
+  title Monstercat
+
+block styles
+  link(rel='stylesheet', href='/css/slider.css')
+
+block scripts
+  script.
+    $(function() {
+      $('#slides').slidesjs({
+        width: 1500,
+        height: 600,
+        play: {
+          active: true,
+          auto: true,
+          interval: 6000,
+          swap: true
+        },
+        navigation: false
+      });
+    });
+
+block content
+  div.row
+    div.large-12.columns
+      div#slides
+        a(href="https://itunes.apple.com/us/album/earth-ep/id725264689?uo=4")
+          img(src="/img/slider1.jpg")
+        a(href="http://monstercat.merchnow.com/")
+          img(src="/img/slider2.jpg")
+        a(href="http://monstercat.concertninja.me/")
+          img(src="/img/slider3.jpg")
+        a.slidesjs-previous.slidesjs-navigation(href="#")
+          i.icon-chevron-left.icon-large
+        a.slidesjs-next.slidesjs-navigation(href="#")
+          i.icon-chevron-right.icon-large
+  div.row
+    div.large-12.columns
+      h4.text-center We are proving that independent labels have the ability to reshape the music industry landscape, while supporting up and coming musicians.
+  div(ng-controller='ReleaseBar')
+    div.fullrow.release-row.padtop(release-bar='')
+      +releaseRow("Latest Releases", page.mcpdata.releases)
+    +releaseDrawer()
