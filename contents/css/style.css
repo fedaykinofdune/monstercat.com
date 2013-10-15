@@ -300,3 +300,34 @@ span.blocklink:hover {
   background-color: #FFF;
   color: #000;
 }
+
+.contactlink .img {
+  display: inline-block;
+  margin: 0 auto 0 auto;
+  height: 125px;
+  width: 150px;
+}
+
+.contactlink h5 {
+  margin-top: 0;
+}
+
+.contactlink:hover .img {
+  background-position: 0 -125px;
+}
+
+.contactlink:hover h5 {
+  color: #2ba6cb;
+}
+
+.submit-demo.img {
+  background: url('/img/demo-submission.png') 0 0 no-repeat;
+}
+
+.youtube-licensing.img {
+  background: url('/img/youtube-licensing.png') 0 0 no-repeat;
+}
+
+.commercial-licensing.img {
+  background: url('/img/commercial-licensing.png') 0 0 no-repeat;
+}
