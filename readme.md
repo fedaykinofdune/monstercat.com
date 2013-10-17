@@ -1,4 +1,3 @@
+# Monstercat.com
 
-# Blog
-
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
+The static site generator behind monstercat.com, built with [wintersmith](http://wintersmith.io/)
