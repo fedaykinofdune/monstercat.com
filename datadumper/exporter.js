@@ -10,9 +10,6 @@ var rootPath = "./contents/";
 
 var Exporter = {};
 
-var artistFields = 'name profileImage about bookings managementDetail links tier';
-var albumFields = 'title links type coverArt';
-
 function safename(name) {
   return name.replace(/\W/g, '');
 };
