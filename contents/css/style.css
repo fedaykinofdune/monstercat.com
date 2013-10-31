@@ -70,13 +70,13 @@ a.support {
   display: block;
 }
 
-.releases img.release {
+.releases img.release, .releases img.podcast {
   position: relative;
   margin: 0 10px 10px 0;
   vertical-align: top;
 }
 
-.releases .release-container {
+.releases .release-container, .releases .podcast-container {
   display: inline-block;
   width: 140px;
   height: 138px;
@@ -330,4 +330,14 @@ span.blocklink:hover {
 
 .commercial-licensing.img {
   background: url('/img/commercial-licensing.png') 0 0 no-repeat;
+}
+
+.mc-button {
+  color: #FFFFFF;
+  background-color: #000000;
+  text-align: center;
+}
+
+.mc-button:hover {
+  background-color: #2ba6cb;
 }

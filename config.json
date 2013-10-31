@@ -5,7 +5,8 @@
     "albimgroot": "http://data.monstercat.com/labels/monstercat/art/thumb/128/"
   },
   "plugins": [
-    "./plugins/mcp.coffee"
+    "./plugins/mcp.coffee",
+    "./plugins/podcasts.coffee"
   ],
   "require": {
     "moment": "moment",

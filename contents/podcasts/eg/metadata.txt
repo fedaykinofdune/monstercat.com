@@ -1,0 +1,10 @@
+itunes=http://www.google.com
+facebook=http://www.google.com
+twitter=http://www.google.com
+youtube=http://www.google.com
+soundcloud=http://www.google.com
+
+0:00 adfasdf
+3:23 asdfadf asdf afds
+5:57 adsf asdffdas
+...
