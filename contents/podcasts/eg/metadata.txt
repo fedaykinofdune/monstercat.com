@@ -2,6 +2,7 @@ itunes=http://www.google.com
 facebook=http://www.google.com
 twitter=http://www.google.com
 youtube=http://www.google.com
+youtube_embed=//youtube.com/embed/DLF9XrkE9eU
 soundcloud=http://www.google.com
 
 0:00 adfasdf
