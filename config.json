@@ -1,8 +1,8 @@
 {
   "locals": {
     "url": "http://localhost:8080",
-    "imgroot": "https://s3.amazonaws.com/data.monstercat.com/monstercat/profileImage/",
-    "albimgroot": "https://s3.amazonaws.com/data.monstercat.com/monstercat/art/thumb/128/"
+    "imgroot": "https://s3.amazonaws.com/data.monstercat.com/labels/monstercat/profileImage/",
+    "albimgroot": "https://s3.amazonaws.com/data.monstercat.com/labels/monstercat/art/thumb/128/"
   },
   "plugins": [
     "./plugins/mcp.coffee",
