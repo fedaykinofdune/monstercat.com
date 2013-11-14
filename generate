@@ -1,2 +1,3 @@
-node datadumper/exporter.js
+./sync_frontend_s3
+/usr/local/bin/node datadumper/exporter.js
 ./node_modules/wintersmith/bin/wintersmith build

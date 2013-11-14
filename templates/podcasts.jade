@@ -4,7 +4,7 @@ mixin podcast(url, art)
   a(href="/podcasts/#{url}/")
     span.podcast-container
       if (art)
-        img.podcast(src="/podcasts/#{art}")
+        img.podcast(src="/SMzxDeSsBRUjDtbYMrZB/#{art}")
       else
         img.podcast(src="/img/defaultArt.png")
 
@@ -27,7 +27,7 @@ block content
       h1.caps Monstercat Podcast
       div.row
         div.large-3.small-12.columns
-          img(src="/podcasts/#{page.mcpdata.cover}")
+          img(src="/SMzxDeSsBRUjDtbYMrZB/#{page.mcpdata.cover}")
         div.large-9.small-12.columns
           div.row
             div.small-12.columns

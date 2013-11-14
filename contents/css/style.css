@@ -71,6 +71,7 @@ a.support {
 }
 
 .releases img.release, .releases img.podcast {
+  width:128px;
   position: relative;
   margin: 0 10px 10px 0;
   vertical-align: top;

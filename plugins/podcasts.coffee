@@ -31,8 +31,9 @@ setPodcastLocals = (locals, root_path) ->
     locals.podcasts = _.reduce(files, ((memo, val) ->
       d = root_path+'/'+val
       if (fs.statSync d).isDirectory()
+        re = /.jpg$|.png$|.jpeg$|.gif$/
         cover = val+'/'+_.find(fs.readdirSync(d),
-          (f)->f.match(/.jpg$|.png$|.jpeg$|.gif$/).length > 0)
+          (f)->f && f.match(re) && f.match(re).length > 0)
         memo.push _.extend(readPodcastFile(d+'/metadata.txt'),
           cover:cover
           url:val)
@@ -122,8 +123,9 @@ module.exports = (env, callback) ->
     dir = filepath.full.replace(/[^\/]*$/, '')
     dir_name = dir.match(/[^\/]*\/$/, '')[0].replace('/', '')
 
+    re = /.jpg$|.png$|.jpeg$|.gif$/
     cover = dir_name+'/'+_.find(fs.readdirSync(dir),
-            (f)->f.match(/.jpg$|.png$|.jpeg$|.gif$/).length > 0)
+            (f)->f && f.match(re) && f.match(re).length > 0)
 
     page_data = _.extend(readPodcastFile(filepath.full),
       cover:cover
