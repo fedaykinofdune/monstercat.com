@@ -29,8 +29,9 @@ Exporter.go = function () {
 
       var query = {$or: [
         {title : {$regex : ".*(feat\\..*" + el.name + ").*"}},
-        {artists: {$elemMatch: {artistId: el._id}}}
-      ]};
+        {artists: {$elemMatch: {artistId: el._id}}},
+      ],
+      label:Album.id("50199744a7a952b793c0a771")};
 
       Album.find(query,
         {sort:[['released', -1]]},
@@ -119,7 +120,12 @@ Exporter.go = function () {
     console.log('Done artists');
   });
 
-  Album.find({links:{$elemMatch:{type:"Soundcloud"}}}, {limit:20, sort:[['released', -1]]},
+  var q = {
+    links:{$elemMatch:{type:"Soundcloud"}},
+    label:Album.id("50199744a7a952b793c0a771")
+  }
+
+  Album.find(q, {limit:20, sort:[['released', -1]]},
     function (err, docs) {
       var albums = [];
       var eps = [];
@@ -157,7 +163,7 @@ Exporter.go = function () {
     }
   );
 
-  Album.find({links:{$elemMatch:{type:"Soundcloud"}}}, {sort:[['released', -1]]},
+  Album.find(q, {sort:[['released', -1]]},
     function (err, docs) {
       var albums = [];
       var eps = [];
