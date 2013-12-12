@@ -122,7 +122,11 @@ Exporter.go = function () {
 
   var q = {
     links:{$elemMatch:{type:"Soundcloud"}},
-    label:Album.id("50199744a7a952b793c0a771")
+    label:Album.id("50199744a7a952b793c0a771"),
+    $or: [
+      {showOnWebsite:true},
+      {showOnWebsite: {$exists: false}}
+    ]
   }
 
   Album.find(q, {limit:20, sort:[['released', -1]]},
@@ -168,6 +172,7 @@ Exporter.go = function () {
       var albums = [];
       var eps = [];
       var singles = [];
+      var free = [];
 
       docs.forEach(function (release) {
         if (release.links) {
@@ -186,6 +191,9 @@ Exporter.go = function () {
         } else if (release.type === "Album") {
           albums.push(release);
         }
+        if (release.showAsFree) {
+          free.push(release);
+        }
       });
 
       var path = rootPath;
@@ -193,7 +201,8 @@ Exporter.go = function () {
       var releasesData = {
         eps: eps,
         singles: singles,
-        albums: albums
+        albums: albums,
+        free: free
       };
 
       var details = {
