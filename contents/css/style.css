@@ -24,7 +24,6 @@ body {
   background: #202020;
 }
 
-
 .catlogo-link {
   display: inline-block;
   width: 60px;
@@ -57,9 +56,13 @@ body {
 }
 
 .link a {
-  color: inherit;
+  color: #FFFFFF;
   padding-top: 20px;
   padding-bottom: 20px;
+}
+
+.link a:hover {
+  color: #AAAAAA;
 }
 
 footer.row {
@@ -110,10 +113,10 @@ a.support {
 }
 
 .drawer {
-  background-color: #AAAAAA;
-  margin-top: -4px;
-  padding: 10px;
-  min-height: 75px;
+  background-color: #888888;
+  margin-top: 8px;
+  padding: 0 10px;
+  min-height: 100px;
 }
 
 @media only screen and (max-width: 550px) {
@@ -227,7 +230,7 @@ a.support {
 }
 
 .padtop {
-  margin-top: 20px;
+  margin-top: 38px;
 }
 
 .social {

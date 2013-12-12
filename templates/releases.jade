@@ -6,7 +6,7 @@ block title
 
 block content
   div(ng-controller='ReleaseBar')
-    div.fullrow.release-row.padtop(release-bar='')
+    div.fullrow.release-row.release-bar-group.padtop(release-bar='')
       if page.mcpdata.albums && page.mcpdata.albums.length > 0
         +releaseRow("Albums", page.mcpdata.albums)
       if page.mcpdata.eps && page.mcpdata.eps.length > 0
