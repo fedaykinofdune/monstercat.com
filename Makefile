@@ -1,10 +1,16 @@
 
-all: syncs3 generate
+all: syncs3 site
 	mongo admin --eval "db.runCommand({ fsync: 1 })"
 	./generate
 
 syncs3:
 	./sync_frontend_s3
+
+node_modules:
+	npm install
+
+testsite: testdata node_modules
+	@./node_modules/wintersmith/bin/wintersmith build
 
 site: dumpdata
 	@./node_modules/wintersmith/bin/wintersmith build
@@ -12,5 +18,7 @@ site: dumpdata
 dumpdata:
 	@node datadumper/exporter.js
 
+testdata:
+	cp ./testdata/release_data.json contents
 
-.PHONY: dumpdata generate
+.PHONY: dumpdata generate testdata
