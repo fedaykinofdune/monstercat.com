@@ -4,9 +4,9 @@ mixin podcast(url, art)
   a(href="/podcasts/#{url}/")
     span.podcast-container
       if (art)
-        img.podcast(src="/SMzxDeSsBRUjDtbYMrZB/#{art}")
+        img.podcast(src="SMzxDeSsBRUjDtbYMrZB/#{art}")
       else
-        img.podcast(src="/img/defaultArt.png")
+        img.podcast(src="img/defaultArt.png")
 
 mixin podcastRow(title, collection)
   div.row

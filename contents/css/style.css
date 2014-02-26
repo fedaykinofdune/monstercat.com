@@ -32,7 +32,7 @@ body {
 }
 
 .catlogo {
-  background: url('/img/monstercat.png')no-repeat center #000;
+  background: url('../img/monstercat.png')no-repeat center #000;
   height: 55px;
   width: 60px;
   float: left;
@@ -95,7 +95,7 @@ a.support {
   top: 0;
   width: 128px;
   height: 128px;
-  background: url('/img/albumhover.png') 0 0 no-repeat;
+  background: url('../img/albumhover.png') 0 0 no-repeat;
   opacity: 0;
   -webkit-transition: opacity 0.3s ease-in-out;
   -moz-transition: opacity 0.3s ease-in-out;
@@ -245,7 +245,7 @@ a.support {
 }
 
 .social.facebook {
-  background: url('/img/facebook.gif');
+  background: url('img/facebook.gif');
 }
 
 .social.facebook:hover {
@@ -253,7 +253,7 @@ a.support {
 }
 
 .social.twitter {
-  background: url('/img/twitter.gif')
+  background: url('img/twitter.gif')
 }
 
 .social.twitter:hover {
@@ -261,7 +261,7 @@ a.support {
 }
 
 .social.soundcloud {
-  background: url('/img/soundcloud.gif')
+  background: url('img/soundcloud.gif')
 }
 
 .social.soundcloud:hover {
@@ -269,7 +269,7 @@ a.support {
 }
 
 .social.youtube {
-  background: url('/img/youtube.gif')
+  background: url('img/youtube.gif')
 }
 
 .social.youtube:hover {
@@ -329,15 +329,15 @@ span.blocklink:hover {
 }
 
 .submit-demo.img {
-  background: url('/img/demo-submission.png') 0 0 no-repeat;
+  background: url('img/demo-submission.png') 0 0 no-repeat;
 }
 
 .youtube-licensing.img {
-  background: url('/img/youtube-licensing.png') 0 0 no-repeat;
+  background: url('img/youtube-licensing.png') 0 0 no-repeat;
 }
 
 .commercial-licensing.img {
-  background: url('/img/commercial-licensing.png') 0 0 no-repeat;
+  background: url('img/commercial-licensing.png') 0 0 no-repeat;
 }
 
 .mc-button {

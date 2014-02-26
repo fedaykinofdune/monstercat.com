@@ -21,7 +21,7 @@ mixin release(link, name, art, beatport, bandcamp, itunes, spotify)
     if (art)
       img.release(src=albimgroot + encodeURIComponent("#{art}"))
     else
-      img.release(src="/img/defaultArt.png")
+      img.release(src="img/defaultArt.png")
 
 mixin releaseRow(title, collection)
   div.row
@@ -40,12 +40,12 @@ mixin releaseDrawer()
       div.drawer
         h5.white SUPPORT THIS RELEASE
         a.support(href="{{releaseBeatport}}", ng-hide="!releaseBeatport")
-          img(src="/img/beatport.png")
+          img(src="img/beatport.png")
         a.support(href="{{releaseBandcamp}}", ng-hide="!releaseBandcamp")
-          img(src="/img/bandcamp.png")
+          img(src="img/bandcamp.png")
         a.support(href="{{releaseItunes}}", ng-hide="!releaseItunes")
-          img(src="/img/itunes.png")
+          img(src="img/itunes.png")
         a.support(href="{{releaseSpotify}}", ng-hide="!releaseSpotify")
-          img(src="/img/spotify.png")
+          img(src="img/spotify.png")
     div.large-9.columns#sc-container
       div.sc-player-init
