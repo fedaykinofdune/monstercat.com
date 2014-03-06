@@ -2,6 +2,10 @@
 
 The static site generator behind monstercat.com, built with [wintersmith](http://wintersmith.io/)
 
+## Changelog
+
+[History](History.md)
+
 ## Building
 
 You'll need OSX or some form of linux to continue
