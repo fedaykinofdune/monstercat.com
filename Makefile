@@ -20,5 +20,6 @@ dumpdata:
 
 testdata:
 	cp ./testdata/release_data.json contents
+	cp ./testdata/data.json contents
 
 .PHONY: dumpdata generate testdata

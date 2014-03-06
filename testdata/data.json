@@ -1,0 +1,2116 @@
+{
+    "releases": [
+        {
+            "__v": 9,
+            "_id": "5317a1c54fdbb7802300000e",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "53118639c11530c478000033",
+                    "artistId": "50351437b9a88646860022cd",
+                    "name": "Tut Tut Child"
+                }
+            ],
+            "catalogId": "MCS201",
+            "coverArt": "5317a1c54fdbb7802300000e-Tut Tut Child - Power Fracture.jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "5317a42a4d84688023000003",
+                    "kind": "Album",
+                    "modelId": "5317a1c54fdbb7802300000e",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=59Njt3gox-E"
+                },
+                {
+                    "_id": "5317a43bc9da36b025000001",
+                    "kind": "Album",
+                    "modelId": "5317a1c54fdbb7802300000e",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/power-fracture/1261509"
+                },
+                {
+                    "_id": "5317a4434d84688023000004",
+                    "kind": "Album",
+                    "modelId": "5317a1c54fdbb7802300000e",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/power-fracture"
+                },
+                {
+                    "_id": "5317a46a7aa205a025000002",
+                    "kind": "Album",
+                    "modelId": "5317a1c54fdbb7802300000e",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/power-fracture/id833770763?i=833770847&ign-mpt=uo%3D4"
+                },
+                {
+                    "_id": "5317a4777aa205a025000003",
+                    "kind": "Album",
+                    "modelId": "5317a1c54fdbb7802300000e",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/tut-tut-child-power-fracture"
+                },
+                {
+                    "_id": "5317a482c9da36b025000002",
+                    "kind": "Album",
+                    "modelId": "5317a1c54fdbb7802300000e",
+                    "name": "Play",
+                    "type": "Play",
+                    "url": "https://play.spotify.com/album/0ofezrjPiLcVggJZuSaCaT"
+                }
+            ],
+            "released": 1394006400000,
+            "renderedArtists": "Tut Tut Child",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "5317a4434d84688023000004",
+                    "kind": "Album",
+                    "modelId": "5317a1c54fdbb7802300000e",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/power-fracture"
+                },
+                "Beatport": {
+                    "_id": "5317a43bc9da36b025000001",
+                    "kind": "Album",
+                    "modelId": "5317a1c54fdbb7802300000e",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/power-fracture/1261509"
+                },
+                "Play": {
+                    "_id": "5317a482c9da36b025000002",
+                    "kind": "Album",
+                    "modelId": "5317a1c54fdbb7802300000e",
+                    "name": "Play",
+                    "type": "Play",
+                    "url": "https://play.spotify.com/album/0ofezrjPiLcVggJZuSaCaT"
+                },
+                "Soundcloud": {
+                    "_id": "5317a4777aa205a025000003",
+                    "kind": "Album",
+                    "modelId": "5317a1c54fdbb7802300000e",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/tut-tut-child-power-fracture"
+                },
+                "YouTube": {
+                    "_id": "5317a42a4d84688023000003",
+                    "kind": "Album",
+                    "modelId": "5317a1c54fdbb7802300000e",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=59Njt3gox-E"
+                },
+                "iTunes": {
+                    "_id": "5317a46a7aa205a025000002",
+                    "kind": "Album",
+                    "modelId": "5317a1c54fdbb7802300000e",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/power-fracture/id833770763?i=833770847&ign-mpt=uo%3D4"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/tut-tut-child-power-fracture",
+            "tags": [],
+            "title": "Power Fracture",
+            "type": "Single"
+        },
+        {
+            "__v": 6,
+            "_id": "53154494a176a54f3f00006a",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "5303eb3344742c021900000d",
+                    "artistId": "5303e96744742c021900000a",
+                    "name": "Grant Bowtie"
+                }
+            ],
+            "catalogId": "MCS200",
+            "coverArt": "53154494a176a54f3f00006a-Grant Bowtie - Reach (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "531544e5dffd444f3f000010",
+                    "kind": "Album",
+                    "modelId": "53154494a176a54f3f00006a",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/grant-bowtie-reach"
+                },
+                {
+                    "_id": "531544f29d8139dd18000019",
+                    "kind": "Album",
+                    "modelId": "53154494a176a54f3f00006a",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/reach"
+                },
+                {
+                    "_id": "5315739f9d8139dd1800001a",
+                    "kind": "Album",
+                    "modelId": "53154494a176a54f3f00006a",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/reach/1260075"
+                },
+                {
+                    "_id": "531573b3db155dc478000003",
+                    "kind": "Album",
+                    "modelId": "53154494a176a54f3f00006a",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/reach/id833772741?i=833772971&ign-mpt=uo%3D4"
+                },
+                {
+                    "_id": "531573bb9d8139dd1800001b",
+                    "kind": "Album",
+                    "modelId": "53154494a176a54f3f00006a",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=77i35GEgc6Y"
+                }
+            ],
+            "released": 1393833600000,
+            "renderedArtists": "Grant Bowtie",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "531544f29d8139dd18000019",
+                    "kind": "Album",
+                    "modelId": "53154494a176a54f3f00006a",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/reach"
+                },
+                "Beatport": {
+                    "_id": "5315739f9d8139dd1800001a",
+                    "kind": "Album",
+                    "modelId": "53154494a176a54f3f00006a",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/reach/1260075"
+                },
+                "Soundcloud": {
+                    "_id": "531544e5dffd444f3f000010",
+                    "kind": "Album",
+                    "modelId": "53154494a176a54f3f00006a",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/grant-bowtie-reach"
+                },
+                "YouTube": {
+                    "_id": "531573bb9d8139dd1800001b",
+                    "kind": "Album",
+                    "modelId": "53154494a176a54f3f00006a",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=77i35GEgc6Y"
+                },
+                "iTunes": {
+                    "_id": "531573b3db155dc478000003",
+                    "kind": "Album",
+                    "modelId": "53154494a176a54f3f00006a",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/reach/id833772741?i=833772971&ign-mpt=uo%3D4"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/grant-bowtie-reach",
+            "tags": [],
+            "title": "Reach",
+            "type": "Single"
+        },
+        {
+            "__v": 44,
+            "_id": "530e762ea176a54f3f00001c",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52cdfe8568dd05cb1f00001b",
+                    "artistId": "5272d616b5d8823b38000009",
+                    "name": "Astronaut"
+                },
+                {
+                    "_id": "52e70701b9942414480000a5",
+                    "artistId": "517569600695c7ac5d000019",
+                    "name": "7 Minutes Dead"
+                },
+                {
+                    "_id": "52dde2a5ca60f71648000013",
+                    "artistId": "5187c7f6e0f59cd27b000009",
+                    "name": "Fractal"
+                },
+                {
+                    "_id": "5293f367e7d601773800000a",
+                    "artistId": "517f082a3c5d98985300000a",
+                    "name": "PIXL"
+                },
+                {
+                    "_id": "5302715f872f384455000039",
+                    "artistId": "50351434b9a88646860007d3",
+                    "name": "Pegboard Nerds"
+                },
+                {
+                    "_id": "52c2126e9f6c696c02000013",
+                    "artistId": "50351437b9a88646860021e6",
+                    "name": "Tristam"
+                },
+                {
+                    "_id": "52adf77393ff577a6700000c",
+                    "artistId": "52adf74cb13d4b7b6700000a",
+                    "name": "Atmozfears"
+                },
+                {
+                    "_id": "529857975a91f3ab57000012",
+                    "artistId": "5175835ce1f597b15d00001a",
+                    "name": "Au5"
+                },
+                {
+                    "_id": "52e087aefe6a9a3d7600000a",
+                    "artistId": "512bdc8ab9a8860a1100002a",
+                    "name": "Bustre"
+                },
+                {
+                    "_id": "52ce000d5bf06c7b1d00001a",
+                    "artistId": "52cdff956ab53f322000000e",
+                    "name": "Case & Point"
+                },
+                {
+                    "_id": "52eac8d8b9942414480000ed",
+                    "artistId": "508708559022a172fa000008",
+                    "name": "Chris Ramos"
+                },
+                {
+                    "_id": "52ca8266977246cd2d00000e",
+                    "artistId": "508708559022a172fa000006",
+                    "name": "Direct"
+                },
+                {
+                    "_id": "529532d94273d7bf2d00001f",
+                    "artistId": "50351435b9a886468600118f",
+                    "name": "Droptek"
+                },
+                {
+                    "_id": "52f48fcf2d1585e237000029",
+                    "artistId": "50351436b9a88646860017df",
+                    "name": "Insan3Lik3"
+                },
+                {
+                    "_id": "52c0905fb05ed0200d000019",
+                    "artistId": "50b5af77b9a8863f26000001",
+                    "name": "Laura Brehm"
+                },
+                {
+                    "_id": "52f07bf18113d0cc28000034",
+                    "artistId": "520535221f8900810e000016",
+                    "name": "Lets Be Friends"
+                },
+                {
+                    "_id": "52982c7e37dbe1ab0f00003b",
+                    "artistId": "50351436b9a8864686001a31",
+                    "name": "Mr FijiWiji"
+                },
+                {
+                    "_id": "52c7e2cd8dd3abe26d00000c",
+                    "artistId": "50351436b9a8864686001a74",
+                    "name": "Muzzy"
+                },
+                {
+                    "_id": "52f828b32d1585e237000048",
+                    "artistId": "52f8289758f837743500003f",
+                    "name": "Nitro Fun"
+                },
+                {
+                    "_id": "52c0905fb05ed0200d000018",
+                    "artistId": "512bdcd4b9a8860a1100002c",
+                    "name": "Rameses B"
+                },
+                {
+                    "_id": "52cdf8f25bf06c7b1d000013",
+                    "artistId": "519406e5aaf2796d67000009",
+                    "name": "Razihel"
+                },
+                {
+                    "_id": "52e2d2aefe6a9a3d76000012",
+                    "artistId": "50351437b9a8864686001dee",
+                    "name": "Rezonate"
+                },
+                {
+                    "_id": "52eb7f0d47333fc651000059",
+                    "artistId": "50351437b9a886468600233d",
+                    "name": "TwoThirds"
+                },
+                {
+                    "_id": "52bf5454182abf100d000012",
+                    "artistId": "50351438b9a88646860023bb",
+                    "name": "Varien"
+                },
+                {
+                    "_id": "52efe75c8113d0cc2800002e",
+                    "artistId": "52eecb9a8113d0cc28000021",
+                    "name": "nanobii"
+                }
+            ],
+            "catalogId": "MC016",
+            "coverArt": "530e762ea176a54f3f00001c-016-expedition in jpg.jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "530e78749d8139dd18000014",
+                    "kind": "Album",
+                    "modelId": "530e762ea176a54f3f00001c",
+                    "name": "Play",
+                    "type": "Play",
+                    "url": "https://play.spotify.com/album/4y9O4OZicB59UsyXbuboAg"
+                },
+                {
+                    "_id": "530e788cdffd444f3f000005",
+                    "kind": "Album",
+                    "modelId": "530e762ea176a54f3f00001c",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/sets/monstercat-016-expedition"
+                },
+                {
+                    "_id": "530e78abdffd444f3f000006",
+                    "kind": "Album",
+                    "modelId": "530e762ea176a54f3f00001c",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/monstercat-016-expedition/id826678125"
+                },
+                {
+                    "_id": "530e78b09d8139dd18000015",
+                    "kind": "Album",
+                    "modelId": "530e762ea176a54f3f00001c",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "https://monstercatmedia.bandcamp.com/album/monstercat-016-expedition"
+                },
+                {
+                    "_id": "530e78b48a1eeae87a000012",
+                    "kind": "Album",
+                    "modelId": "530e762ea176a54f3f00001c",
+                    "name": "Amazon",
+                    "type": "Amazon",
+                    "url": "http://www.amazon.com/Monstercat-016-Expedition-Various-artists/dp/B00ILEX1YE/ref=sr_1_1?ie=UTF8&qid=1393443135&sr=8-1"
+                },
+                {
+                    "_id": "530e78ccdffd444f3f000007",
+                    "kind": "Album",
+                    "modelId": "530e762ea176a54f3f00001c",
+                    "name": "Play",
+                    "type": "Play",
+                    "url": "https://play.google.com/store/music/album/Various_Artists_Monstercat_016_Expedition?id=Bsytfukltaxiuokb2akrxn53myq&hl=en"
+                }
+            ],
+            "released": 1393401600000,
+            "renderedArtists": "Various Artists",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Amazon": {
+                    "_id": "530e78b48a1eeae87a000012",
+                    "kind": "Album",
+                    "modelId": "530e762ea176a54f3f00001c",
+                    "name": "Amazon",
+                    "type": "Amazon",
+                    "url": "http://www.amazon.com/Monstercat-016-Expedition-Various-artists/dp/B00ILEX1YE/ref=sr_1_1?ie=UTF8&qid=1393443135&sr=8-1"
+                },
+                "Bandcamp": {
+                    "_id": "530e78b09d8139dd18000015",
+                    "kind": "Album",
+                    "modelId": "530e762ea176a54f3f00001c",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "https://monstercatmedia.bandcamp.com/album/monstercat-016-expedition"
+                },
+                "Play": {
+                    "_id": "530e78ccdffd444f3f000007",
+                    "kind": "Album",
+                    "modelId": "530e762ea176a54f3f00001c",
+                    "name": "Play",
+                    "type": "Play",
+                    "url": "https://play.google.com/store/music/album/Various_Artists_Monstercat_016_Expedition?id=Bsytfukltaxiuokb2akrxn53myq&hl=en"
+                },
+                "Soundcloud": {
+                    "_id": "530e788cdffd444f3f000005",
+                    "kind": "Album",
+                    "modelId": "530e762ea176a54f3f00001c",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/sets/monstercat-016-expedition"
+                },
+                "iTunes": {
+                    "_id": "530e78abdffd444f3f000006",
+                    "kind": "Album",
+                    "modelId": "530e762ea176a54f3f00001c",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/monstercat-016-expedition/id826678125"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/sets/monstercat-016-expedition",
+            "tags": [],
+            "title": "Monstercat 016 - Expedition",
+            "type": "Album"
+        },
+        {
+            "__v": 12,
+            "_id": "53052a6fa29cffdd18000012",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "530270da872f384455000033",
+                    "artistId": "50351434b9a88646860007d3",
+                    "name": "Pegboard Nerds"
+                }
+            ],
+            "catalogId": "MCEP048",
+            "coverArt": "53052a6fa29cffdd18000012-Pegboard Nerd - Bassline Kickin (The Remixes) (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "5305659a8a1eeae87a000004",
+                    "kind": "Album",
+                    "modelId": "53052a6fa29cffdd18000012",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/sets/pegboard-nerds-bassline-kickin"
+                },
+                {
+                    "_id": "530565a59d8139dd18000004",
+                    "kind": "Album",
+                    "modelId": "53052a6fa29cffdd18000012",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=OozC7xkhbu0"
+                },
+                {
+                    "_id": "530565a97d1ca2ec64000002",
+                    "kind": "Album",
+                    "modelId": "53052a6fa29cffdd18000012",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/album/bassline-kickin-the-remixes-2"
+                },
+                {
+                    "_id": "530565ae8a1eeae87a000005",
+                    "kind": "Album",
+                    "modelId": "53052a6fa29cffdd18000012",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/bassline-kickin-the-remixes/1250941"
+                }
+            ],
+            "released": 1392796800000,
+            "renderedArtists": "Pegboard Nerds",
+            "showAsFree": true,
+            "showOnWebsite": true,
+            "showToAdminsOnly": true,
+            "social": {
+                "Bandcamp": {
+                    "_id": "530565a97d1ca2ec64000002",
+                    "kind": "Album",
+                    "modelId": "53052a6fa29cffdd18000012",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/album/bassline-kickin-the-remixes-2"
+                },
+                "Beatport": {
+                    "_id": "530565ae8a1eeae87a000005",
+                    "kind": "Album",
+                    "modelId": "53052a6fa29cffdd18000012",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/bassline-kickin-the-remixes/1250941"
+                },
+                "Soundcloud": {
+                    "_id": "5305659a8a1eeae87a000004",
+                    "kind": "Album",
+                    "modelId": "53052a6fa29cffdd18000012",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/sets/pegboard-nerds-bassline-kickin"
+                },
+                "YouTube": {
+                    "_id": "530565a59d8139dd18000004",
+                    "kind": "Album",
+                    "modelId": "53052a6fa29cffdd18000012",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=OozC7xkhbu0"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/sets/pegboard-nerds-bassline-kickin",
+            "tags": [],
+            "title": "Bassline Kickin (The Remixes)",
+            "type": "EP"
+        },
+        {
+            "__v": 5,
+            "_id": "53029b09f073efbf7300000f",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52cdfe915bf06c7b1d000018",
+                    "artistId": "5272d616b5d8823b38000009",
+                    "name": "Astronaut"
+                }
+            ],
+            "catalogId": "MCEP047",
+            "coverArt": "53029b09f073efbf7300000f-Artwork (2).png",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "53029c47b2a788bf73000002",
+                    "kind": "Album",
+                    "modelId": "53029b09f073efbf7300000f",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/sets/astronaut-destination-rain-ep/s-KUHDs"
+                },
+                {
+                    "_id": "53029c6321e265be73000005",
+                    "kind": "Album",
+                    "modelId": "53029b09f073efbf7300000f",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/destination-rain/1249374"
+                },
+                {
+                    "_id": "53029c6e6ba08f207f000002",
+                    "kind": "Album",
+                    "modelId": "53029b09f073efbf7300000f",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/destination-rain-ep/id821216525?ign-mpt=uo%3D4"
+                },
+                {
+                    "_id": "53029c74b2a788bf73000003",
+                    "kind": "Album",
+                    "modelId": "53029b09f073efbf7300000f",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/album/destination-rain-ep"
+                }
+            ],
+            "released": 1392624000000,
+            "renderedArtists": "Astronaut",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "53029c74b2a788bf73000003",
+                    "kind": "Album",
+                    "modelId": "53029b09f073efbf7300000f",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/album/destination-rain-ep"
+                },
+                "Beatport": {
+                    "_id": "53029c6321e265be73000005",
+                    "kind": "Album",
+                    "modelId": "53029b09f073efbf7300000f",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/destination-rain/1249374"
+                },
+                "Soundcloud": {
+                    "_id": "53029c47b2a788bf73000002",
+                    "kind": "Album",
+                    "modelId": "53029b09f073efbf7300000f",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/sets/astronaut-destination-rain-ep/s-KUHDs"
+                },
+                "iTunes": {
+                    "_id": "53029c6e6ba08f207f000002",
+                    "kind": "Album",
+                    "modelId": "53029b09f073efbf7300000f",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/destination-rain-ep/id821216525?ign-mpt=uo%3D4"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/sets/astronaut-destination-rain-ep/s-KUHDs",
+            "tags": [],
+            "title": "Destination: Rain",
+            "type": "EP"
+        },
+        {
+            "__v": 12,
+            "_id": "52fe86b97e3fab0e36000013",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52fe85bd0c8b54ea5200000c",
+                    "artistId": "517f082a3c5d98985300000a",
+                    "name": "PIXL"
+                }
+            ],
+            "catalogId": "MCS199",
+            "coverArt": "52fe86b97e3fab0e36000013-PIXL - Rat Twist (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52fe8ab3eee5a10e36000002",
+                    "kind": "Album",
+                    "modelId": "52fe86b97e3fab0e36000013",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=Wg8D7Bbm6TI"
+                },
+                {
+                    "_id": "52fe8ac3aed69a591e000004",
+                    "kind": "Album",
+                    "modelId": "52fe86b97e3fab0e36000013",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/pixl-rat-twist"
+                },
+                {
+                    "_id": "52fe8ad4a51e49ea52000002",
+                    "kind": "Album",
+                    "modelId": "52fe86b97e3fab0e36000013",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/rat-twist"
+                },
+                {
+                    "_id": "52fe8ad9a51e49ea52000003",
+                    "kind": "Album",
+                    "modelId": "52fe86b97e3fab0e36000013",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/rat-twist/1249364"
+                },
+                {
+                    "_id": "52fe8b0feee5a10e36000003",
+                    "kind": "Album",
+                    "modelId": "52fe86b97e3fab0e36000013",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/rat-twist/id821092967?i=821092970&ign-mpt=uo%3D4"
+                }
+            ],
+            "released": 1392364800000,
+            "renderedArtists": "PIXL",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52fe8ad4a51e49ea52000002",
+                    "kind": "Album",
+                    "modelId": "52fe86b97e3fab0e36000013",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/rat-twist"
+                },
+                "Beatport": {
+                    "_id": "52fe8ad9a51e49ea52000003",
+                    "kind": "Album",
+                    "modelId": "52fe86b97e3fab0e36000013",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/rat-twist/1249364"
+                },
+                "Soundcloud": {
+                    "_id": "52fe8ac3aed69a591e000004",
+                    "kind": "Album",
+                    "modelId": "52fe86b97e3fab0e36000013",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/pixl-rat-twist"
+                },
+                "YouTube": {
+                    "_id": "52fe8ab3eee5a10e36000002",
+                    "kind": "Album",
+                    "modelId": "52fe86b97e3fab0e36000013",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=Wg8D7Bbm6TI"
+                },
+                "iTunes": {
+                    "_id": "52fe8b0feee5a10e36000003",
+                    "kind": "Album",
+                    "modelId": "52fe86b97e3fab0e36000013",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/rat-twist/id821092967?i=821092970&ign-mpt=uo%3D4"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/pixl-rat-twist",
+            "tags": [],
+            "title": "Rat Twist",
+            "type": "Single"
+        },
+        {
+            "__v": 6,
+            "_id": "52fd87ac1ad4e44a21000060",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52efe75c8113d0cc2800002e",
+                    "artistId": "52eecb9a8113d0cc28000021",
+                    "name": "nanobii"
+                }
+            ],
+            "catalogId": "MCS198",
+            "coverArt": "52fd87ac1ad4e44a21000060-nanobii - Rainbow Road (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52fd88fb1652394421000003",
+                    "kind": "Album",
+                    "modelId": "52fd87ac1ad4e44a21000060",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/nanobii-rainbow-road"
+                },
+                {
+                    "_id": "52fd8900afa9564921000004",
+                    "kind": "Album",
+                    "modelId": "52fd87ac1ad4e44a21000060",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/rainbow-road/1246245"
+                },
+                {
+                    "_id": "52fd8904afa9564921000005",
+                    "kind": "Album",
+                    "modelId": "52fd87ac1ad4e44a21000060",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/rainbow-road"
+                },
+                {
+                    "_id": "52fd8909e7593a4a21000003",
+                    "kind": "Album",
+                    "modelId": "52fd87ac1ad4e44a21000060",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/us/album/rainbow-road-single/id820544137?ign-mpt=uo%3D4"
+                },
+                {
+                    "_id": "52fd890e1652394421000004",
+                    "kind": "Album",
+                    "modelId": "52fd87ac1ad4e44a21000060",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=a0Aauep0VWs"
+                }
+            ],
+            "released": 1392192000000,
+            "renderedArtists": "nanobii",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52fd8904afa9564921000005",
+                    "kind": "Album",
+                    "modelId": "52fd87ac1ad4e44a21000060",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/rainbow-road"
+                },
+                "Beatport": {
+                    "_id": "52fd8900afa9564921000004",
+                    "kind": "Album",
+                    "modelId": "52fd87ac1ad4e44a21000060",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/rainbow-road/1246245"
+                },
+                "Soundcloud": {
+                    "_id": "52fd88fb1652394421000003",
+                    "kind": "Album",
+                    "modelId": "52fd87ac1ad4e44a21000060",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/nanobii-rainbow-road"
+                },
+                "YouTube": {
+                    "_id": "52fd890e1652394421000004",
+                    "kind": "Album",
+                    "modelId": "52fd87ac1ad4e44a21000060",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=a0Aauep0VWs"
+                },
+                "iTunes": {
+                    "_id": "52fd8909e7593a4a21000003",
+                    "kind": "Album",
+                    "modelId": "52fd87ac1ad4e44a21000060",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/us/album/rainbow-road-single/id820544137?ign-mpt=uo%3D4"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/nanobii-rainbow-road",
+            "tags": [],
+            "title": "Rainbow Road",
+            "type": "Single"
+        },
+        {
+            "__v": 7,
+            "_id": "52f9b735e16a984421000014",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52f828b32d1585e237000048",
+                    "artistId": "52f8289758f837743500003f",
+                    "name": "Nitro Fun"
+                }
+            ],
+            "catalogId": "MCS197",
+            "coverArt": "52f9b735e16a984421000014-Nitro Fun - New Game (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52f9b7f7e7593a4a21000001",
+                    "kind": "Album",
+                    "modelId": "52f9b735e16a984421000014",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/nitro-fun-new-game"
+                },
+                {
+                    "_id": "52f9b8091652394421000002",
+                    "kind": "Album",
+                    "modelId": "52f9b735e16a984421000014",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/new-game/1244014"
+                },
+                {
+                    "_id": "52f9b80eafa9564921000001",
+                    "kind": "Album",
+                    "modelId": "52f9b735e16a984421000014",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=6y_NJg-xoeE"
+                },
+                {
+                    "_id": "52f9b813e7593a4a21000002",
+                    "kind": "Album",
+                    "modelId": "52f9b735e16a984421000014",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/new-game"
+                }
+            ],
+            "released": 1392019200000,
+            "renderedArtists": "Nitro Fun",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52f9b813e7593a4a21000002",
+                    "kind": "Album",
+                    "modelId": "52f9b735e16a984421000014",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/new-game"
+                },
+                "Beatport": {
+                    "_id": "52f9b8091652394421000002",
+                    "kind": "Album",
+                    "modelId": "52f9b735e16a984421000014",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/new-game/1244014"
+                },
+                "Soundcloud": {
+                    "_id": "52f9b7f7e7593a4a21000001",
+                    "kind": "Album",
+                    "modelId": "52f9b735e16a984421000014",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/nitro-fun-new-game"
+                },
+                "YouTube": {
+                    "_id": "52f9b80eafa9564921000001",
+                    "kind": "Album",
+                    "modelId": "52f9b735e16a984421000014",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=6y_NJg-xoeE"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/nitro-fun-new-game",
+            "tags": [],
+            "title": "New Game",
+            "type": "Single"
+        },
+        {
+            "__v": 10,
+            "_id": "52f6e798f50a8e8a35000031",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52f48fcf2d1585e237000029",
+                    "artistId": "50351436b9a88646860017df",
+                    "name": "Insan3Lik3"
+                }
+            ],
+            "catalogId": "MCS196",
+            "coverArt": "52f6e798f50a8e8a35000031-Insan3Lik3 - We Are The Robots (feat. Temu) (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52f6eedeb01466e237000006",
+                    "kind": "Album",
+                    "modelId": "52f6e798f50a8e8a35000031",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/we-are-the-robots/1244016"
+                },
+                {
+                    "_id": "52f6eefbb01466e237000007",
+                    "kind": "Album",
+                    "modelId": "52f6e798f50a8e8a35000031",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=oe443Gl4Skk"
+                },
+                {
+                    "_id": "52f6ef0272c35a8a3500000b",
+                    "kind": "Album",
+                    "modelId": "52f6e798f50a8e8a35000031",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/insan3lik3-we-are-the-robots"
+                },
+                {
+                    "_id": "52f6ef096c3a027435000007",
+                    "kind": "Album",
+                    "modelId": "52f6e798f50a8e8a35000031",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/we-are-the-robots-feat-temu-2"
+                }
+            ],
+            "released": 1391760000000,
+            "renderedArtists": "Insan3Lik3",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52f6ef096c3a027435000007",
+                    "kind": "Album",
+                    "modelId": "52f6e798f50a8e8a35000031",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/we-are-the-robots-feat-temu-2"
+                },
+                "Beatport": {
+                    "_id": "52f6eedeb01466e237000006",
+                    "kind": "Album",
+                    "modelId": "52f6e798f50a8e8a35000031",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/we-are-the-robots/1244016"
+                },
+                "Soundcloud": {
+                    "_id": "52f6ef0272c35a8a3500000b",
+                    "kind": "Album",
+                    "modelId": "52f6e798f50a8e8a35000031",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/insan3lik3-we-are-the-robots"
+                },
+                "YouTube": {
+                    "_id": "52f6eefbb01466e237000007",
+                    "kind": "Album",
+                    "modelId": "52f6e798f50a8e8a35000031",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=oe443Gl4Skk"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/insan3lik3-we-are-the-robots",
+            "tags": [],
+            "title": "We Are The Robots (feat. Temu)",
+            "type": "Single"
+        },
+        {
+            "__v": 6,
+            "_id": "52f07f39a270606a3c000064",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52f07bf18113d0cc28000034",
+                    "artistId": "520535221f8900810e000016",
+                    "name": "Lets Be Friends"
+                }
+            ],
+            "catalogId": "MCS194",
+            "coverArt": "52f07f39a270606a3c000064-Lets Be Friends - FTW (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52f07f5f3e9439cc28000002",
+                    "kind": "Album",
+                    "modelId": "52f07f39a270606a3c000064",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=oO10eNicsfQ"
+                },
+                {
+                    "_id": "52f07f6e3e9439cc28000003",
+                    "kind": "Album",
+                    "modelId": "52f07f39a270606a3c000064",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/lets-be-friends-ftw"
+                },
+                {
+                    "_id": "52f07f7161098e6a3c00000d",
+                    "kind": "Album",
+                    "modelId": "52f07f39a270606a3c000064",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/ftw/1240887"
+                },
+                {
+                    "_id": "52f07f74118e20f91d000009",
+                    "kind": "Album",
+                    "modelId": "52f07f39a270606a3c000064",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/ftw"
+                },
+                {
+                    "_id": "52f07f793e9439cc28000004",
+                    "kind": "Album",
+                    "modelId": "52f07f39a270606a3c000064",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/ftw-single/id813645886"
+                }
+            ],
+            "released": 1391414400000,
+            "renderedArtists": "Lets Be Friends",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52f07f74118e20f91d000009",
+                    "kind": "Album",
+                    "modelId": "52f07f39a270606a3c000064",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/ftw"
+                },
+                "Beatport": {
+                    "_id": "52f07f7161098e6a3c00000d",
+                    "kind": "Album",
+                    "modelId": "52f07f39a270606a3c000064",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/ftw/1240887"
+                },
+                "Soundcloud": {
+                    "_id": "52f07f6e3e9439cc28000003",
+                    "kind": "Album",
+                    "modelId": "52f07f39a270606a3c000064",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/lets-be-friends-ftw"
+                },
+                "YouTube": {
+                    "_id": "52f07f5f3e9439cc28000002",
+                    "kind": "Album",
+                    "modelId": "52f07f39a270606a3c000064",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=oO10eNicsfQ"
+                },
+                "iTunes": {
+                    "_id": "52f07f793e9439cc28000004",
+                    "kind": "Album",
+                    "modelId": "52f07f39a270606a3c000064",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/ftw-single/id813645886"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/lets-be-friends-ftw",
+            "tags": [],
+            "title": "FTW",
+            "type": "Single"
+        },
+        {
+            "__v": 5,
+            "_id": "52ec501ca270606a3c00001e",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52eb7f0d47333fc651000059",
+                    "artistId": "50351437b9a886468600233d",
+                    "name": "TwoThirds"
+                }
+            ],
+            "catalogId": "MCS193",
+            "coverArt": "52ec501ca270606a3c00001e-TwoThirds - Daydreamer (feat. Bijou) (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52ec50a261098e6a3c000002",
+                    "kind": "Album",
+                    "modelId": "52ec501ca270606a3c00001e",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/daydreamer/1240247"
+                },
+                {
+                    "_id": "52ec50a7118e20f91d000004",
+                    "kind": "Album",
+                    "modelId": "52ec501ca270606a3c00001e",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/daydreamer-feat-bijou"
+                },
+                {
+                    "_id": "52ec50b0264405573c000004",
+                    "kind": "Album",
+                    "modelId": "52ec501ca270606a3c00001e",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=SWOaCOIKqBo"
+                },
+                {
+                    "_id": "52ec50b861098e6a3c000003",
+                    "kind": "Album",
+                    "modelId": "52ec501ca270606a3c00001e",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/twothirds-daydreamer"
+                }
+            ],
+            "released": 1391155200000,
+            "renderedArtists": "TwoThirds",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52ec50a7118e20f91d000004",
+                    "kind": "Album",
+                    "modelId": "52ec501ca270606a3c00001e",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/daydreamer-feat-bijou"
+                },
+                "Beatport": {
+                    "_id": "52ec50a261098e6a3c000002",
+                    "kind": "Album",
+                    "modelId": "52ec501ca270606a3c00001e",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/daydreamer/1240247"
+                },
+                "Soundcloud": {
+                    "_id": "52ec50b861098e6a3c000003",
+                    "kind": "Album",
+                    "modelId": "52ec501ca270606a3c00001e",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/twothirds-daydreamer"
+                },
+                "YouTube": {
+                    "_id": "52ec50b0264405573c000004",
+                    "kind": "Album",
+                    "modelId": "52ec501ca270606a3c00001e",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=SWOaCOIKqBo"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/twothirds-daydreamer",
+            "tags": [],
+            "title": "Daydreamer",
+            "type": "Single"
+        },
+        {
+            "__v": 11,
+            "_id": "52e708d4b9942414480000a6",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52e70701b9942414480000a5",
+                    "artistId": "517569600695c7ac5d000019",
+                    "name": "7 Minutes Dead"
+                }
+            ],
+            "catalogId": "MCEP046",
+            "coverArt": "52e708d4b9942414480000a6-7 Minutes Dead - Peacock EP (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52e7221ca29ae50652000002",
+                    "kind": "Album",
+                    "modelId": "52e708d4b9942414480000a6",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=PhGtxxxorPk"
+                },
+                {
+                    "_id": "52e72226ce205c144800000e",
+                    "kind": "Album",
+                    "modelId": "52e708d4b9942414480000a6",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/peacock-ep/1236653"
+                },
+                {
+                    "_id": "52e7222a2e2345c651000003",
+                    "kind": "Album",
+                    "modelId": "52e708d4b9942414480000a6",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/album/peacock-ep"
+                },
+                {
+                    "_id": "52e7222e2e2345c651000004",
+                    "kind": "Album",
+                    "modelId": "52e708d4b9942414480000a6",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/7-minutes-dead-peacock"
+                }
+            ],
+            "released": 1390809600000,
+            "renderedArtists": "7 Minutes Dead",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52e7222a2e2345c651000003",
+                    "kind": "Album",
+                    "modelId": "52e708d4b9942414480000a6",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/album/peacock-ep"
+                },
+                "Beatport": {
+                    "_id": "52e72226ce205c144800000e",
+                    "kind": "Album",
+                    "modelId": "52e708d4b9942414480000a6",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/peacock-ep/1236653"
+                },
+                "Soundcloud": {
+                    "_id": "52e7222e2e2345c651000004",
+                    "kind": "Album",
+                    "modelId": "52e708d4b9942414480000a6",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/7-minutes-dead-peacock"
+                },
+                "YouTube": {
+                    "_id": "52e7221ca29ae50652000002",
+                    "kind": "Album",
+                    "modelId": "52e708d4b9942414480000a6",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=PhGtxxxorPk"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/7-minutes-dead-peacock",
+            "tags": [],
+            "title": "Peacock EP",
+            "type": "EP"
+        },
+        {
+            "__v": 12,
+            "_id": "52e2d4c317dcc11a4800005f",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52e2d2aefe6a9a3d76000012",
+                    "artistId": "50351437b9a8864686001dee",
+                    "name": "Rezonate"
+                }
+            ],
+            "catalogId": "MCEP045",
+            "coverArt": "52e2d4c317dcc11a4800005f-Rezonate - Prelude EP (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52e30c9cbb0a9d3d76000006",
+                    "kind": "Album",
+                    "modelId": "52e2d4c317dcc11a4800005f",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=i0Ew3cl1gyc"
+                },
+                {
+                    "_id": "52e72407ce205c144800000f",
+                    "kind": "Album",
+                    "modelId": "52e2d4c317dcc11a4800005f",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/sets/rezonate-prelude-ep"
+                },
+                {
+                    "_id": "52e72414ce205c1448000010",
+                    "kind": "Album",
+                    "modelId": "52e2d4c317dcc11a4800005f",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/prelude-ep/1234254"
+                },
+                {
+                    "_id": "52e724182e2345c651000005",
+                    "kind": "Album",
+                    "modelId": "52e2d4c317dcc11a4800005f",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/album/prelude-ep"
+                }
+            ],
+            "released": 1390550400000,
+            "renderedArtists": "Rezonate",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52e724182e2345c651000005",
+                    "kind": "Album",
+                    "modelId": "52e2d4c317dcc11a4800005f",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/album/prelude-ep"
+                },
+                "Beatport": {
+                    "_id": "52e72414ce205c1448000010",
+                    "kind": "Album",
+                    "modelId": "52e2d4c317dcc11a4800005f",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/prelude-ep/1234254"
+                },
+                "Soundcloud": {
+                    "_id": "52e72407ce205c144800000f",
+                    "kind": "Album",
+                    "modelId": "52e2d4c317dcc11a4800005f",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/sets/rezonate-prelude-ep"
+                },
+                "YouTube": {
+                    "_id": "52e30c9cbb0a9d3d76000006",
+                    "kind": "Album",
+                    "modelId": "52e2d4c317dcc11a4800005f",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=i0Ew3cl1gyc"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/sets/rezonate-prelude-ep",
+            "tags": [],
+            "title": "Prelude EP",
+            "type": "EP"
+        },
+        {
+            "__v": 5,
+            "_id": "52e7469fe8db25065200000e",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52e087aefe6a9a3d7600000a",
+                    "artistId": "512bdc8ab9a8860a1100002a",
+                    "name": "Bustre"
+                }
+            ],
+            "catalogId": "MCS192",
+            "coverArt": "52e7469fe8db25065200000e-Bustre - Shadow (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52e746fca29ae50652000003",
+                    "kind": "Album",
+                    "modelId": "52e7469fe8db25065200000e",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/bustre-shadow"
+                },
+                {
+                    "_id": "52e74703ce205c1448000012",
+                    "kind": "Album",
+                    "modelId": "52e7469fe8db25065200000e",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=k1IaGHfZ4YU"
+                },
+                {
+                    "_id": "52e7470b2e2345c651000006",
+                    "kind": "Album",
+                    "modelId": "52e7469fe8db25065200000e",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/shadow"
+                },
+                {
+                    "_id": "52e7470fa29ae50652000004",
+                    "kind": "Album",
+                    "modelId": "52e7469fe8db25065200000e",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/shadow/1234263"
+                }
+            ],
+            "released": 1390377600000,
+            "renderedArtists": "Bustre",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52e7470b2e2345c651000006",
+                    "kind": "Album",
+                    "modelId": "52e7469fe8db25065200000e",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/shadow"
+                },
+                "Beatport": {
+                    "_id": "52e7470fa29ae50652000004",
+                    "kind": "Album",
+                    "modelId": "52e7469fe8db25065200000e",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/shadow/1234263"
+                },
+                "Soundcloud": {
+                    "_id": "52e746fca29ae50652000003",
+                    "kind": "Album",
+                    "modelId": "52e7469fe8db25065200000e",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/bustre-shadow"
+                },
+                "YouTube": {
+                    "_id": "52e74703ce205c1448000012",
+                    "kind": "Album",
+                    "modelId": "52e7469fe8db25065200000e",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=k1IaGHfZ4YU"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/bustre-shadow",
+            "tags": [],
+            "title": "Shadow",
+            "type": "Single"
+        },
+        {
+            "__v": 7,
+            "_id": "52dde81c17dcc11a48000016",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52dde2cbca60f71648000014",
+                    "artistId": "5187c7f6e0f59cd27b000009",
+                    "name": "Fractal"
+                }
+            ],
+            "catalogId": "MCEP044",
+            "coverArt": "52dde81c17dcc11a48000016-Fractal - Spection EP (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52dde860ab61c61648000002",
+                    "kind": "Album",
+                    "modelId": "52dde81c17dcc11a48000016",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/spection-ep/1229296"
+                },
+                {
+                    "_id": "52dde86ace205c1448000003",
+                    "kind": "Album",
+                    "modelId": "52dde81c17dcc11a48000016",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/album/spection-ep"
+                },
+                {
+                    "_id": "52dde86e2e4c761a48000002",
+                    "kind": "Album",
+                    "modelId": "52dde81c17dcc11a48000016",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/spection/id797827387?i=797827426&ign-mpt=uo%3D4"
+                },
+                {
+                    "_id": "52dde87cab61c61648000003",
+                    "kind": "Album",
+                    "modelId": "52dde81c17dcc11a48000016",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/sets/fractal-spection-ep"
+                },
+                {
+                    "_id": "52dde882ce205c1448000004",
+                    "kind": "Album",
+                    "modelId": "52dde81c17dcc11a48000016",
+                    "name": "Play",
+                    "type": "Play",
+                    "url": "https://play.spotify.com/album/53WTZyGENBK0T0K0rsmy1U"
+                }
+            ],
+            "released": 1390204800000,
+            "renderedArtists": "Fractal",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52dde86ace205c1448000003",
+                    "kind": "Album",
+                    "modelId": "52dde81c17dcc11a48000016",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/album/spection-ep"
+                },
+                "Beatport": {
+                    "_id": "52dde860ab61c61648000002",
+                    "kind": "Album",
+                    "modelId": "52dde81c17dcc11a48000016",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/spection-ep/1229296"
+                },
+                "Play": {
+                    "_id": "52dde882ce205c1448000004",
+                    "kind": "Album",
+                    "modelId": "52dde81c17dcc11a48000016",
+                    "name": "Play",
+                    "type": "Play",
+                    "url": "https://play.spotify.com/album/53WTZyGENBK0T0K0rsmy1U"
+                },
+                "Soundcloud": {
+                    "_id": "52dde87cab61c61648000003",
+                    "kind": "Album",
+                    "modelId": "52dde81c17dcc11a48000016",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/sets/fractal-spection-ep"
+                },
+                "iTunes": {
+                    "_id": "52dde86e2e4c761a48000002",
+                    "kind": "Album",
+                    "modelId": "52dde81c17dcc11a48000016",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/spection/id797827387?i=797827426&ign-mpt=uo%3D4"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/sets/fractal-spection-ep",
+            "tags": [],
+            "title": "Spection EP",
+            "type": "EP"
+        },
+        {
+            "__v": 20,
+            "_id": "52d993ac4f469aa02100000a",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52ce000d5bf06c7b1d00001a",
+                    "artistId": "52cdff956ab53f322000000e",
+                    "name": "Case & Point"
+                }
+            ],
+            "catalogId": "MCS191",
+            "coverArt": "52d993ac4f469aa02100000a-Case & Point - Savage (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52d9a85d22938f6d50000001",
+                    "kind": "Album",
+                    "modelId": "52d993ac4f469aa02100000a",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/case-point-savage"
+                },
+                {
+                    "_id": "52d9a8697074ca8250000002",
+                    "kind": "Album",
+                    "modelId": "52d993ac4f469aa02100000a",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/savage/1229299"
+                },
+                {
+                    "_id": "52d9a86f039b8a5950000002",
+                    "kind": "Album",
+                    "modelId": "52d993ac4f469aa02100000a",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/savage"
+                },
+                {
+                    "_id": "52d9a87322938f6d50000002",
+                    "kind": "Album",
+                    "modelId": "52d993ac4f469aa02100000a",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/savage/id797740888?i=797740899&ign-mpt=uo%3D4"
+                },
+                {
+                    "_id": "52d9a88722938f6d50000003",
+                    "kind": "Album",
+                    "modelId": "52d993ac4f469aa02100000a",
+                    "name": "Spotify",
+                    "type": "Spotify",
+                    "url": "http://open.spotify.com/album/2zusMKueVVjGxjEkfOk3bg"
+                },
+                {
+                    "_id": "52d9a89322938f6d50000004",
+                    "kind": "Album",
+                    "modelId": "52d993ac4f469aa02100000a",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=sVmQSIsfDrY"
+                }
+            ],
+            "released": 1389945600000,
+            "renderedArtists": "Case & Point",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52d9a86f039b8a5950000002",
+                    "kind": "Album",
+                    "modelId": "52d993ac4f469aa02100000a",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/savage"
+                },
+                "Beatport": {
+                    "_id": "52d9a8697074ca8250000002",
+                    "kind": "Album",
+                    "modelId": "52d993ac4f469aa02100000a",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/savage/1229299"
+                },
+                "Soundcloud": {
+                    "_id": "52d9a85d22938f6d50000001",
+                    "kind": "Album",
+                    "modelId": "52d993ac4f469aa02100000a",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/case-point-savage"
+                },
+                "Spotify": {
+                    "_id": "52d9a88722938f6d50000003",
+                    "kind": "Album",
+                    "modelId": "52d993ac4f469aa02100000a",
+                    "name": "Spotify",
+                    "type": "Spotify",
+                    "url": "http://open.spotify.com/album/2zusMKueVVjGxjEkfOk3bg"
+                },
+                "YouTube": {
+                    "_id": "52d9a89322938f6d50000004",
+                    "kind": "Album",
+                    "modelId": "52d993ac4f469aa02100000a",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=sVmQSIsfDrY"
+                },
+                "iTunes": {
+                    "_id": "52d9a87322938f6d50000002",
+                    "kind": "Album",
+                    "modelId": "52d993ac4f469aa02100000a",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/savage/id797740888?i=797740899&ign-mpt=uo%3D4"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/case-point-savage",
+            "tags": [],
+            "title": "Savage",
+            "type": "Single"
+        },
+        {
+            "__v": 4,
+            "_id": "52d6ea172d6af8c920000014",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52d07682a1c464f90b000027",
+                    "artistId": "50351434b9a88646860007d3",
+                    "name": "Pegboard Nerds"
+                }
+            ],
+            "catalogId": "MCS190",
+            "coverArt": "52d6ea172d6af8c920000014-Pegboard Nerds - Bassline Kickin (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52d6eaa7983fafc920000001",
+                    "kind": "Album",
+                    "modelId": "52d6ea172d6af8c920000014",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/pegboard-nerds-bassline-kickin"
+                },
+                {
+                    "_id": "52d6eab47b23328f20000002",
+                    "kind": "Album",
+                    "modelId": "52d6ea172d6af8c920000014",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=mhsf7K6h7SY"
+                },
+                {
+                    "_id": "52d6ead67b23328f20000003",
+                    "kind": "Album",
+                    "modelId": "52d6ea172d6af8c920000014",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/track/bassline-kickin-original-mix/5078681"
+                }
+            ],
+            "released": 1389772800000,
+            "renderedArtists": "Pegboard Nerds",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Beatport": {
+                    "_id": "52d6ead67b23328f20000003",
+                    "kind": "Album",
+                    "modelId": "52d6ea172d6af8c920000014",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/track/bassline-kickin-original-mix/5078681"
+                },
+                "Soundcloud": {
+                    "_id": "52d6eaa7983fafc920000001",
+                    "kind": "Album",
+                    "modelId": "52d6ea172d6af8c920000014",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/pegboard-nerds-bassline-kickin"
+                },
+                "YouTube": {
+                    "_id": "52d6eab47b23328f20000002",
+                    "kind": "Album",
+                    "modelId": "52d6ea172d6af8c920000014",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=mhsf7K6h7SY"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/pegboard-nerds-bassline-kickin",
+            "tags": [],
+            "title": "Bassline Kickin",
+            "type": "Single"
+        },
+        {
+            "__v": 6,
+            "_id": "52d4487c08a5459039000017",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52cdfe7a5bf06c7b1d000016",
+                    "artistId": "5272d616b5d8823b38000009",
+                    "name": "Astronaut"
+                }
+            ],
+            "catalogId": "MCEP043",
+            "coverArt": "52d4487c08a5459039000017-Astronaut - Quantum EP (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52d46243eb9ee82e5d000001",
+                    "kind": "Album",
+                    "modelId": "52d4487c08a5459039000017",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/sets/astronaut-quantum-ep"
+                },
+                {
+                    "_id": "52d46256eb9ee82e5d000002",
+                    "kind": "Album",
+                    "modelId": "52d4487c08a5459039000017",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/album/quantum-ep-2"
+                },
+                {
+                    "_id": "52d4625c4b883b9039000003",
+                    "kind": "Album",
+                    "modelId": "52d4487c08a5459039000017",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/quantum-ep-single/id775175924"
+                },
+                {
+                    "_id": "52d46261c023394604000001",
+                    "kind": "Album",
+                    "modelId": "52d4487c08a5459039000017",
+                    "name": "Play",
+                    "type": "Play",
+                    "url": "https://play.spotify.com/album/7cO4cBBp1bv6mqfNDuYAfV"
+                },
+                {
+                    "_id": "52d46265eb9ee82e5d000003",
+                    "kind": "Album",
+                    "modelId": "52d4487c08a5459039000017",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=WP2sjVnaZxg&feature=youtu.be"
+                }
+            ],
+            "released": 1389600000000,
+            "renderedArtists": "Astronaut",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52d46256eb9ee82e5d000002",
+                    "kind": "Album",
+                    "modelId": "52d4487c08a5459039000017",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/album/quantum-ep-2"
+                },
+                "Play": {
+                    "_id": "52d46261c023394604000001",
+                    "kind": "Album",
+                    "modelId": "52d4487c08a5459039000017",
+                    "name": "Play",
+                    "type": "Play",
+                    "url": "https://play.spotify.com/album/7cO4cBBp1bv6mqfNDuYAfV"
+                },
+                "Soundcloud": {
+                    "_id": "52d46243eb9ee82e5d000001",
+                    "kind": "Album",
+                    "modelId": "52d4487c08a5459039000017",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/sets/astronaut-quantum-ep"
+                },
+                "YouTube": {
+                    "_id": "52d46265eb9ee82e5d000003",
+                    "kind": "Album",
+                    "modelId": "52d4487c08a5459039000017",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=WP2sjVnaZxg&feature=youtu.be"
+                },
+                "iTunes": {
+                    "_id": "52d4625c4b883b9039000003",
+                    "kind": "Album",
+                    "modelId": "52d4487c08a5459039000017",
+                    "name": "iTunes",
+                    "type": "iTunes",
+                    "url": "https://itunes.apple.com/ca/album/quantum-ep-single/id775175924"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/sets/astronaut-quantum-ep",
+            "tags": [],
+            "title": "Quantum EP",
+            "type": "EP"
+        },
+        {
+            "__v": 13,
+            "_id": "52d0badba1c464f90b000030",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52cdf8f25bf06c7b1d000013",
+                    "artistId": "519406e5aaf2796d67000009",
+                    "name": "Razihel"
+                }
+            ],
+            "catalogId": "MCS189",
+            "coverArt": "52d0badba1c464f90b000030-Razihel - Renzokuken (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52d0e689d031b4e70b000004",
+                    "kind": "Album",
+                    "modelId": "52d0badba1c464f90b000030",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=y8MsE-4dygY"
+                },
+                {
+                    "_id": "52d0e68e495355f90b000005",
+                    "kind": "Album",
+                    "modelId": "52d0badba1c464f90b000030",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/renzokuken/1226250"
+                },
+                {
+                    "_id": "52d0e698dd41617b1d00000a",
+                    "kind": "Album",
+                    "modelId": "52d0badba1c464f90b000030",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/razihel-renzokuken"
+                }
+            ],
+            "released": 1389330000000,
+            "renderedArtists": "Razihel",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Beatport": {
+                    "_id": "52d0e68e495355f90b000005",
+                    "kind": "Album",
+                    "modelId": "52d0badba1c464f90b000030",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/renzokuken/1226250"
+                },
+                "Soundcloud": {
+                    "_id": "52d0e698dd41617b1d00000a",
+                    "kind": "Album",
+                    "modelId": "52d0badba1c464f90b000030",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/razihel-renzokuken"
+                },
+                "YouTube": {
+                    "_id": "52d0e689d031b4e70b000004",
+                    "kind": "Album",
+                    "modelId": "52d0badba1c464f90b000030",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=y8MsE-4dygY"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/razihel-renzokuken",
+            "tags": [],
+            "title": "Renzokuken",
+            "type": "Single"
+        },
+        {
+            "__v": 5,
+            "_id": "52cdf87668dd05cb1f000017",
+            "altNames": [],
+            "artists": [
+                {
+                    "_id": "52ca8266977246cd2d00000e",
+                    "artistId": "508708559022a172fa000006",
+                    "name": "Direct"
+                }
+            ],
+            "catalogId": "MCS188",
+            "coverArt": "52cdf87668dd05cb1f000017-Direct - Parallax (art).jpg",
+            "label": "50199744a7a952b793c0a771",
+            "links": [
+                {
+                    "_id": "52cdf8a7508054cb1f000002",
+                    "kind": "Album",
+                    "modelId": "52cdf87668dd05cb1f000017",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/direct-parallax"
+                },
+                {
+                    "_id": "52cdf8b6508054cb1f000003",
+                    "kind": "Album",
+                    "modelId": "52cdf87668dd05cb1f000017",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=8W24WN-KTuM"
+                },
+                {
+                    "_id": "52cdf8badd41617b1d000001",
+                    "kind": "Album",
+                    "modelId": "52cdf87668dd05cb1f000017",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/parallax/1222737"
+                },
+                {
+                    "_id": "52cdf8c1dd41617b1d000002",
+                    "kind": "Album",
+                    "modelId": "52cdf87668dd05cb1f000017",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/parallax"
+                }
+            ],
+            "released": 1389168000000,
+            "renderedArtists": "Direct",
+            "showAsFree": false,
+            "showOnWebsite": true,
+            "showToAdminsOnly": false,
+            "social": {
+                "Bandcamp": {
+                    "_id": "52cdf8c1dd41617b1d000002",
+                    "kind": "Album",
+                    "modelId": "52cdf87668dd05cb1f000017",
+                    "name": "Bandcamp",
+                    "type": "Bandcamp",
+                    "url": "http://music.monstercat.com/track/parallax"
+                },
+                "Beatport": {
+                    "_id": "52cdf8badd41617b1d000001",
+                    "kind": "Album",
+                    "modelId": "52cdf87668dd05cb1f000017",
+                    "name": "Beatport",
+                    "type": "Beatport",
+                    "url": "http://www.beatport.com/release/parallax/1222737"
+                },
+                "Soundcloud": {
+                    "_id": "52cdf8a7508054cb1f000002",
+                    "kind": "Album",
+                    "modelId": "52cdf87668dd05cb1f000017",
+                    "name": "Soundcloud",
+                    "type": "Soundcloud",
+                    "url": "https://soundcloud.com/monstercat/direct-parallax"
+                },
+                "YouTube": {
+                    "_id": "52cdf8b6508054cb1f000003",
+                    "kind": "Album",
+                    "modelId": "52cdf87668dd05cb1f000017",
+                    "name": "YouTube",
+                    "type": "YouTube",
+                    "url": "http://www.youtube.com/watch?v=8W24WN-KTuM"
+                }
+            },
+            "soundcloud_path": "https://soundcloud.com/monstercat/direct-parallax",
+            "tags": [],
+            "title": "Parallax",
+            "type": "Single"
+        }
+    ]
+}
