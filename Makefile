@@ -1,7 +1,9 @@
 
 all: syncs3 site
 	mongo admin --eval "db.runCommand({ fsync: 1 })"
-	./generate
+
+podcast:
+	@./node_modules/wintersmith/bin/wintersmith build
 
 syncs3:
 	./sync_frontend_s3
@@ -21,4 +23,4 @@ dumpdata:
 testdata:
 	cp ./testdata/release_data.json contents
 
-.PHONY: dumpdata generate testdata
+.PHONY: dumpdata generate testdata podcast
