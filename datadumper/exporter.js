@@ -226,5 +226,5 @@ module.exports = Exporter;
 Exporter.go();
 
 setTimeout(function() {
-  process.exit(1);
+  process.exit(0);
 }, 2000);
