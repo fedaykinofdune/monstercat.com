@@ -1,7 +1,7 @@
 extends layout
 
 mixin podcast(url, art)
-  a(href="/podcasts/#{url}/")
+  a(href="/podcast/#{url}/")
     span.podcast-container
       if (art)
         img.podcast(src="/podcast/#{art}")
