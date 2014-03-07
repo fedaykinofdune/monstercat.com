@@ -1,0 +1,5 @@
+{
+  "template":"podcasts.jade",
+  "child_template":"podcast.jade",
+  "dir":"./contents/podcast"
+}

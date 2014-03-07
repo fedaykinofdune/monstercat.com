@@ -1,0 +1,21 @@
+itunes=//www.itunes.apple.com/ca/artist/monstercat/id503599501
+facebook=//www.facebook.com/monstercat
+twitter=//www.twitter.com/Monstercat
+youtube=//www.youtube.com/MonstercatMedia
+youtube_embed=//youtube.com/embed/DLF9XrkE9eU
+soundcloud=//www.soundcloud.com/monstercat
+
+1. Project 46 - Motionless (feat. Seri)
+2. Vicetone feat. Collin McLoughlin - Heartbeat (PIXL Remix)
+3. Rogue - Dynamite
+4. Televisor - Old Skool (Alex Mind Remix)
+5. Tut Tut Child - Dance To It
+6. Pegboard Nerds - FrainBreeze
+7. Haywyre - Back and Forth
+8. Subformat - More
+9. TwoThirds - Waking Dreams (feat. Laura Brehm) (Drum and Bass VIP Mix)
+10. Pegboard Nerds - Revenge of the Nerds (VIP)
+11. Noisestorm - Together
+12. Rogue - Exogenesis
+13. Stephen Walking - Walkers
+14. Rezonate - Lonely (feat. Bijou)
