@@ -1,6 +1,7 @@
 {
   "name": "monstercat.com",
   "version": "0.0.2",
+  "repository": "https://github.com/monstercat/monstercat.com.git",
   "dependencies": {
     "wintersmith": "*",
     "monk": "*",
@@ -8,5 +9,10 @@
     "underscore": "1.4.x",
     "typogr": "0.5.x"
   },
-  "repository": "none"
+  "devDependencies": {
+    "http-server": "*"
+  },
+  "scripts": {
+    "start": "http-server build -p ${PORT:-8888}"
+  }
 }
