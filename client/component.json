@@ -1,0 +1,24 @@
+{
+  "name": "monstercat",
+  "repo": "monstercat/monstercat.com",
+  "description": "Monstercat website.",
+  "version": "1.0.0",
+  "keywords": [],
+  "dependencies": {
+    "tm-components/jade-renderer": "*",
+    "visionmedia/jade": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "main.js",
+  "paths": [
+    "local-components"
+  ],
+  "scripts": [
+    "main.js",
+    "template.js"
+  ],
+  "styles": [
+    "style.css"
+  ]
+}

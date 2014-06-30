@@ -1,10 +1,7 @@
-/contents/artists/
-/contents/data.json
-/contents/release_data.json
-node_modules/
-/build/
-# OS generated files #
-######################
+node_modules
+
+server/public/client
+
 .DS_Store
 .DS_Store?
 ._*

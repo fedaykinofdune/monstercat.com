@@ -1,27 +1,11 @@
 
-all: syncs3 site
-	mongo admin --eval "db.runCommand({ fsync: 1 })"
+build: 
+	rsync -u -r --delete client/assets/ server/public/client
+	cd client && make
+	rsync -u -r client/bin/ server/public/client
 
-podcast:
-	@./node_modules/wintersmith/bin/wintersmith build
+clean: 
+	rm -rf server/public/client
+	cd client && make clean
 
-syncs3:
-	./sync_frontend_s3
-
-node_modules:
-	npm install
-
-testsite: testdata node_modules
-	@./node_modules/wintersmith/bin/wintersmith build
-
-site: dumpdata
-	@./node_modules/wintersmith/bin/wintersmith build
-
-dumpdata:
-	@node datadumper/exporter.js
-
-testdata:
-	cp ./testdata/release_data.json contents
-	cp ./testdata/data.json contents
-
-.PHONY: dumpdata generate testdata podcast
+.PHONY: clean

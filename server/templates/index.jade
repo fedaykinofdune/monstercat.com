@@ -1,0 +1,23 @@
+doctype html
+html
+  head
+    title Monstercat
+    if og
+      meta(name="og:title" content="#{og.title}")
+      meta(name="og:type" content="#{og.type}")
+      meta(name="og:image" content="#{og.image}")
+      meta(name="og:url" content="#{og.url}")
+      if og.description
+        meta(name="og:description" content="#{og.description}")
+    meta(name="viewport" content="width=device-width, user-scalable=no")
+    link(rel="shortcut icon" href="/client/favicon.ico")
+    link(rel="stylesheet" href="/client/main.css")
+    link(rel="stylesheet" href="/client/font-awesome-4.1.0/css/font-awesome.min.css")
+    script(type="text/javascript" src="/client/main.js")
+  body
+    script.
+      var Client = require("monstercat");
+      var a = window.a = new Client();
+      a.render();
+      document.querySelector("body").appendChild(a.el);
+
