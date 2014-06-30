@@ -18,8 +18,13 @@ function restart ( spy ) {
   }
 }
 
+process.env.DEBUG = "mc*"
+
 function start ( spy ) {
-  server = spawn("node", ["index"], { stdio: "inherit" });
+  server = spawn("node", ["index"], { 
+    stdio: "inherit",
+    env: process.env
+  });
   server.on("close", function () {
     server = null;
     killing = false;
