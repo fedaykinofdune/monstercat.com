@@ -9,6 +9,7 @@ This project contains the server and client applications of the "monstercat.com"
 ```
 git clone git@github.com:monstercat/monstercat.com
 cd monstercat.com
+git checkout newschool
 npm install
 npm run watch
 ```
